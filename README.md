@@ -4,6 +4,7 @@
 
 Author(s): 
 Xinyi Wang, Angeliki Katsenou, and David Bull
+
 Visual Information Laboratory, University of Bristol, BS1 5DD, Bristol, UK
 
 Contact: xinyi.wang@bristol.ac.uk
