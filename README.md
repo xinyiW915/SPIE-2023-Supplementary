@@ -12,6 +12,8 @@ Contact: xinyi.wang@bristol.ac.uk
 
 Conference Paper Homepage: [Applications of Digital Image Processing XLVI](https://spie.org/OP332)
 
+arXiv Paper page: [arXiv:2308.06853 UGC Quality Assessment: Exploring the Impact of Saliency in Deep Feature-Based Quality Assessment](https://arxiv.org/abs/2308.06853)
+
 ### Abstract 
 
 
