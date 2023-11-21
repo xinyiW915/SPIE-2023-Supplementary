@@ -20,6 +20,6 @@ arXiv Paper page: [arXiv:2308.06853: UGC Quality Assessment: Exploring the Impac
 The volume of User Generated Content (UGC) has increased in recent years. The challenge with this type of content is assessing its quality. So far, the state-of-the-art metrics are not exhibiting a very high correlation with perceptual quality. In this paper, we explore state-of-the-art metrics that extract/combine natural scene statistics and deep neural network features. We experiment with these by introducing saliency maps to improve perceptibility. We train and test our models using public datasets, namely, YouTube-UGC and KoNViD-1k. Preliminary results indicate that high correlations are achieved by using only deep features while adding saliency does not always boost performance. Our results and code will be made publicly available to serve as a benchmark for the research community and can be found on our project page: https://github.com/xinyiW915/SPIE-2023-Supplementary.
 
 
-## For RAPIQUE-UGC: (https://github.com/xinyiW915/RAPIQUE-UGC)
-## For VSFA-UGC: (https://github.com/xinyiW915/VSFA-UGC)
-## For RAPIQUE_VSFA_Saliency: (https://github.com/xinyiW915/RVS-resize)
+## For RAPIQUE-UGC code: (https://github.com/xinyiW915/RAPIQUE-UGC)
+## For VSFA-UGC code: (https://github.com/xinyiW915/VSFA-UGC)
+## For RAPIQUE_VSFA_Saliency code: (https://github.com/xinyiW915/RVS-resize)
